@@ -1,3 +1,3 @@
-#Functional Spec Notes
+# Functional Spec Notes
 
-##Introduction
+## Introduction
